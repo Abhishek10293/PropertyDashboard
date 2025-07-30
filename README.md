@@ -23,6 +23,14 @@ This project leverages a modern and powerful set of technologies to deliver a hi
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/) (A utility-first CSS framework for rapid UI development)
 - **Components**: [shadcn/ui](https://ui.shadcn.com/) (Beautifully designed, re-usable UI components built with Radix UI and Tailwind CSS)
 
+  ## Future Enhancements
+
+- **Google Maps Integration**: Embed interactive maps to visualize property locations.
+- **User Authentication**: Implement user login/signup to manage personal listings.
+- **Advanced Filtering/Sorting**: Add more criteria like price range, number of rooms, or area.
+- **Property Comparison**: Enable users to compare multiple properties side-by-side.
+- **Backend Integration**: Connect to a real database (e.g., Supabase, MongoDB) for persistent data storage.
+
   
 ## 🚀 Live Demo
 
