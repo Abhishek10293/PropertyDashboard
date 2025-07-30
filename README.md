@@ -12,15 +12,19 @@ A modern and interactive property listing dashboard built with React and Next.js
 *   **Dark Mode Toggle**: Switch between light and dark themes for a personalized viewing experience.
 *   **Global State Management**: Utilizes React Context API for efficient state management across the application.
 *   **Responsive Design**: Optimized for seamless viewing on various devices (desktop, tablet, mobile).
-*   **Loading Skeletons**: Enhances user experience by displaying loading placeholders during data fetching.
-*   **Toast Notifications**: Provides real-time feedback for user actions (e.g., property added, property deleted).
 
+  ## Tech Stack
+
+This project leverages a modern and powerful set of technologies to deliver a high-performance and scalable application:
+
+- **Framework**: [Next.js 14](https://nextjs.org/) (React framework for building full-stack web applications)
+- **UI Library**: [React](https://react.dev/) (JavaScript library for building user interfaces)
+- **Language**: [TypeScript](https://www.typescriptlang.org/) (Strongly typed superset of JavaScript)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/) (A utility-first CSS framework for rapid UI development)
+- **Components**: [shadcn/ui](https://ui.shadcn.com/) (Beautifully designed, re-usable UI components built with Radix UI and Tailwind CSS)
+
+  
 ## 🚀 Live Demo
 
 Explore the live application here: [https://property-dashboard-blond.vercel.app/](https://property-dashboard-blond.vercel.app/)
 
-## 📸 Screenshot
-
-Here's a glimpse of the Property Dashboard:
-
-```png file="public/images/property-dashboard-screenshot.png" url="https://sjc.microlink.io/DW0yhXDK1ZoOIurY3oc_gr936GT2pvmqvdwb7tY29A7-ilgyCDKUkLguDeR26_T_YpmgF-6svBrCSgqXnEqYxw.jpeg"
